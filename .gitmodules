@@ -1,0 +1,6 @@
+[submodule "deps/CursorInfo"]
+	path = deps/CursorInfo
+	url = https://github.com/Tocchetto/CursorInfo.git
+[submodule "deps/AutoitUtils"]
+	path = deps/AutoitUtils
+	url = https://github.com/Tocchetto/AutoitUtils.git
